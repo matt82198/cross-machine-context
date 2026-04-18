@@ -1,0 +1,23 @@
+{
+  "enabledPlugins": {
+    // Add plugin IDs here after installing them from the marketplace.
+    // Example structure:
+    //   "plugin-name@marketplace-name": true
+    // Run `claude plugins` to browse available plugins.
+  },
+  "extraKnownMarketplaces": {
+    // Add custom plugin marketplaces here if needed.
+    // Example:
+    //   "my-marketplace": {
+    //     "source": {
+    //       "source": "github",
+    //       "repo": "org/repo"
+    //     }
+    //   }
+  },
+  "alwaysThinkingEnabled": true,
+  "effortLevel": "high",
+  "permissions": {
+    "defaultMode": "auto"
+  }
+}

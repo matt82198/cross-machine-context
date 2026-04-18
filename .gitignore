@@ -1,0 +1,20 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Claude cache / telemetry — machine-local, regenerated automatically
+dot-claude/cache/
+dot-claude/statsig/
+dot-claude/stats-cache.json
+dot-claude/mcp-needs-auth-cache.json
+
+# Ephemeral / not portable across machines
+dot-claude/shell-snapshots/
+dot-claude/file-history/
+dot-claude/debug/
+
+# Local backups — git is the backup
+dot-claude/backups/
