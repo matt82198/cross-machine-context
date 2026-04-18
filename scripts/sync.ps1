@@ -39,7 +39,7 @@ if (-not $changes) {
     Write-Host "No changes."
     exit 0
 }
-$msg = "sync: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss') on $env:COMPUTERNAME"
+$msg = "sync: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
 git commit -m $msg | Out-Null
 git push
 Write-Host "Pushed: $msg"
