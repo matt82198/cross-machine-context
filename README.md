@@ -2,6 +2,8 @@
 
 Portable Claude Code orchestration config for Windows — CLAUDE.md rules, memory files, settings, and skills live in a git repo and follow you to every machine.
 
+***THIS IS PURELY AN EXAMPLE OF HOW TO CONFIGURE CLAUDE TO UTILIZE A MORE TOKEN EFFECICENT ORCHESTRATION AND PERSITANCE LAYER, YOU NEED TO BUILD YOUR MEMORIES, BEHAVIORS, ETC FROM SCRATCH. THE README FULLY WALKS THROUGH THIS.***
+
 ---
 
 ## The Problem
