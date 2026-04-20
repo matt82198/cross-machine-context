@@ -203,3 +203,8 @@ PRs welcome. Useful contributions include:
 - Cross-platform equivalents (macOS/Linux shell scripts using `ln -s`)
 
 Open an issue first for large changes to `dot-claude/CLAUDE.md` — orchestration rule changes affect every session on every machine that uses this config.
+
+
+## For the doubters (I think we were over 100 agents including subs and my ram stick broke, Antrhopic fixed the mem leak):
+<img width="540" height="223" alt="Too many agents" src="https://github.com/user-attachments/assets/53d4a322-c685-412e-a64e-0884b5741141" />
+
